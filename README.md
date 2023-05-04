@@ -24,12 +24,14 @@ support, and streaming TV and movies.
 and number of tickets opened in the categories administrative and technical.
 * Demographic info about customers – gender, age range, and if they have partners and dependents.
 
-![customer retension pwc2](https://user-images.githubusercontent.com/120369181/235899933-498e531e-dec1-4b5b-8ec4-91e3e5b406d2.png)
+![Pwc2](https://user-images.githubusercontent.com/120369181/236207679-145832f8-009f-49cd-9496-422e909cc318.png)
+
 
 # Diversity & Inclusion 
 In this case study of Diversity & Inclusion we have to analyze gender balance in the organization.here we observed employee total count as well as gender wise number of employees. We could analyze hire count gender wise, performance rating, gender wise promotion, department wise gender count etc.
 
-![Pwc 3](https://user-images.githubusercontent.com/120369181/235901541-6e1edb79-18df-4fbf-a184-f0374e0da78e.png)
+![Pwc3](https://user-images.githubusercontent.com/120369181/236207748-af94a99a-adfc-4f32-9f6d-4d6fec4d1fce.png)
+
 
 # 🏅 Completion Certificate
 ![pwc certificare](https://user-images.githubusercontent.com/120369181/235902346-c2bf3f6c-ae9c-498e-880a-08fcc7674c95.png)
