@@ -1,5 +1,9 @@
 # Power-BI-Virtual-Case-Experience-with-PwC
 
+* In this project,I analyzed data from a call center to identify trends and insights related to customer behavior, agent behavior, customer retention, and diversity and inclusion. Through my analysis, I used various tools and techniques to visualize the data, including Power BI, to create an interactive dashboard to communicate the findings. 
+* I created an interactive dashboard using Power BI to bring together all the insights and findings from the analysis. The dashboard includes various visualizations and filters to allow stakeholders to explore the data and gain insights into the trends and patterns identified in the analysis. 
+* This dashboard is a powerful tool that can be used to inform business decisions and drive better outcomes.
+
 ![bagde](https://user-images.githubusercontent.com/120369181/235891697-e9c1d64e-303c-4436-be46-6bd176554da4.png)
 
 
